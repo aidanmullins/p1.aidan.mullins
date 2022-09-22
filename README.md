@@ -32,39 +32,38 @@ o	The lack of a close-door button creates the potential for a user who is in a h
 
 
 # Part B
-**Common/Rare Uses**
+**Common Uses**
 
-- To travel vertical distances in a building
-- If I am physically unable to walk up/down the stairs
-- Yes it does. I just have to click a couple buttons to move up or down various floors of a building
+o	To travel from one floor to another 
+    - Current design has an awkward button set-up, and doesn't tell the user what floor they have arrived on except a small screen near the ceiling
+o	Open the door for another user approaching the elevator
+    - Elevator has an open-door button to allow for this
+o Close the door when in a hurry or if door is malfunctioning and not closing on its own 
+    - Current design does not have a close-door button
+
+**Rare Uses**
+
 
 **Sequence of Actions**
 
-1. Click up or down button on the outside interface
+1. Select the up or down button from the outside of the elevator
 2. Enter the elevator
 3. Click the desired floor to travel to
-4. Click the close door button (even if it doesn't really work)
-5. Exit once the elevator stops and the door opens
+4. Goes to click the close-door button, but it isnt there
+5. Exit the elevator once it has arrived on the destination floor
 
 **How does the elevator support the user figure out how to make it work?**
 
-The elevator helps the user by having a straightforward interface that requires little to no
-instruction. For example, it has simple buttons with arrows next to them to indicate the
-direction the elevator will move when that button is pressed. It also has numbers next to the
-buttons to indicate what floor the elevator will travel to when that button is pressed.
+The elevator lists the number of the floor next to and on the button for that floor. The floor number is also written in braille next to the button for visually impaired users. The user is expected to know to press that specific button to travel to the floor. The button
 
 **How does the elevator provide feedback to the user?**
 
-The most common ways an elevator provides feedback is by having the button light up when
-pressed which indicates that it is in operation, as well as providing audio cues to notify the
-user when the elevator has arrived at a destination.
+The button of the floor selected to travel to lights up (except for the 3rd floor). The screen above the controls near the ceiling displays what floor the elevator is currently on. The door of the elevator opens to let the user know that they can exit the elevator.
 
 **Common Mistakes**
 
-- It is easy for a child to hit the alarm or call button because it is as at the bottom
-- It is easy to miss your floor if you're not paying attention due to the lack of audio cues
-- It is easy to get on the wrong elevator because it does not display the direction the
-  elevator is traveling on the inside interface
+o It would be easy to bump the alarm on accident
+o A child could pull on the stop elevator knob
 
 **Improved Control Interface**
 
