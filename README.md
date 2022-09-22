@@ -68,22 +68,12 @@ The button of the floor selected to travel to lights up (except for the 3rd floo
 
 ![](p1.aidan.mullins.png)
 
-The screen at the top supports buildings with up to 99 stories and clearly show the
-direction the elevator is moving with the arrows on the left/right side. On the left side of
-the screen will be a label that indicates the max capacity of the elevator. On the right side
-will be the speaker for user feedback, that doubles as a microphone for emergency calls.
+The new screen which will be lower to the ground and more visible to shorter or handicapped users and displays the current floor that the elevator is on. The arrows on either side of the screen will light up according to whether the elevator is travelling in the up or down direction. The speaker/microphone will verbally declare the floor that the elevator is arriving at which can make things easier for users to know what floor they are on, especially those that are visually impaired.
 
-The bottom two buttons will be for opening and closing the elevator doors. The buttons above
-those two will be for the various floors. Then the top two buttons will be for the bell alarm
-and for calling 911 for emergencies. All buttons will light up and will give an audio cue
-when pressed. The labels are next to the buttons to avoid wear and tear of users pressing the
-buttons. The alarm and call button are at the top to avoid accidental presses by children.
-The call button will be fully lit when a call is placed and will flash when help is on the way,
-as clearly labeled next to the button.
+The floor buttons will provide feedback to the users by lighting up and are now arranged in a vertical order associated with their actual level in the hotel. 
 
-Between the screen and buttons are various panels used by non-normal users, such as
-repair men or firemen. Because these panels are used less often compared to the buttons
-and also require a key to, they should be placed in an area less likely to be used.
+I have added a close-door button for users who are in a hurry or for times when the elevator may be malfunctioning or slow to close. I have added an alarm button that is further away from the 1st floor button and therfore less likely to be pressed on accident. An emergency phone button has been added so that users can communicate with responders in case of emergency through the speaker/microphone. All of the buttons listed now have braille next to them to cater towards blind users.
+
 
 # Part A
 **Touchscreen Design Implementation Prototype**
