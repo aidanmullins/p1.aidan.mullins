@@ -33,11 +33,11 @@ o	The lack of a close-door button creates the potential for a user who is in a h
 # Part B
 **Common Uses**
 
-o	To travel from one floor to another 
+- To travel from one floor to another 
     - Current design has an awkward button set-up, and doesn't tell the user what floor they have arrived on except a small screen near the ceiling
-o	Open the door for another user approaching the elevator
+- Open the door for another user approaching the elevator
     - Elevator has an open-door button to allow for this
-o Close the door when in a hurry or if door is malfunctioning and not closing on its own 
+- Close the door when in a hurry or if door is malfunctioning and not closing on its own 
     - Current design does not have a close-door button
 
 **Rare Uses**
@@ -61,8 +61,8 @@ The button of the floor selected to travel to lights up (except for the 3rd floo
 
 **Common Mistakes**
 
-o It would be easy to bump the alarm on accident
-o A child could pull on the stop elevator knob
+- It would be easy to bump the alarm on accident
+- A child could pull on the stop elevator knob
 
 **Improved Control Interface**
 
