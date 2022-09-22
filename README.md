@@ -13,20 +13,20 @@ Link to github repository: https://github.com/aidanmullins/p1.aidan.mullins
 
 **Issues with Control Interface**
 
-o	3rd floor button doesn’t light up 
-o	Pointless buttons on top 
-o	No close-door button
-o	Screen that shows the current floor number is too high and difficult to read, especially for a shorter person
-o	Not everyone should be able to stop and run the elevator whenever they want
-o	Should have an emergency phone button
-o	There is no sound that tells you what floor you’re on
-o	There is no braille writing on the alarm or door open button
+-	3rd floor button doesn’t light up 
+-	Pointless buttons on top 
+-	No close-door button
+-	Screen that shows the current floor number is too high and difficult to read, especially for a shorter person
+-	Not everyone should be able to stop and run the elevator whenever they want
+-	Should have an emergency phone button
+-	There is no sound that tells you what floor you’re on
+-	There is no braille writing on the alarm or door open button
 
 
 **Explanation**
 
-o	The 3 pointless buttons, lack of sound notifying the user what floor they are on, as well as the lack of braille on the alarm and open-door buttons could confuse or potentially endanger the visually impaired users. 
-o	The lack of a close-door button creates the potential for a user who is in a hurry to have to wait longer as well as if the door is not closing on its own then the user can not attempt to manually shut it.
+-	The 3 pointless buttons, lack of sound notifying the user what floor they are on, as well as the lack of braille on the alarm and open-door buttons could confuse or potentially endanger the visually impaired users. 
+-	The lack of a close-door button creates the potential for a user who is in a hurry to have to wait longer as well as if the door is not closing on its own then the user can not attempt to manually shut it.
 
 
 
