@@ -5,8 +5,7 @@ Link to github repository: https://github.com/aidanmullins/p1.aidan.mullins
 # Part C
 **Control Interface**
 
-![](outsideInterface.jpg)
-![](insideInterface.jpg)
+![](currentInterface.jpg)
 
 **Operation of Control Interface**
 
@@ -67,7 +66,7 @@ o A child could pull on the stop elevator knob
 
 **Improved Control Interface**
 
-![](sketchInterface.jpg)
+![](p1.aidan.mullins.PNG)
 
 The screen at the top supports buildings with up to 99 stories and clearly show the
 direction the elevator is moving with the arrows on the left/right side. On the left side of
