@@ -9,7 +9,7 @@ Link to github repository: https://github.com/aidanmullins/p1.aidan.mullins
 
 **Operation of Control Interface**
 
-![](elevator.gif)
+![](p1.aidanmullins.gif)
 
 **Issues with Control Interface**
 
