@@ -5,7 +5,7 @@ Link to github repository: https://github.com/aidanmullins/p1.aidan.mullins
 # Part C
 **Control Interface**
 
-![](currentInterface.PNG)
+![](realInterface.PNG)
 
 **Operation of Control Interface**
 
