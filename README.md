@@ -76,7 +76,7 @@ I have added a close-door button for users who are in a hurry or for times when 
 
 
 # Part A
-**Touchscreen Design Implementation Prototype**
+**Touchscreen Design**
 
 
 
